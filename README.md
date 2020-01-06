@@ -1,2 +1,3 @@
-# strapi-cms
-test for strapi cms
+# Strapi application
+
+A quick description of your strapi application
