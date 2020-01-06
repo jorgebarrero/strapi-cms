@@ -1,0 +1,17 @@
+{
+  "defaultConnection": "default",
+  "connections": {
+    "default": {
+      "connector": "bookshelf",
+      "settings": {
+        "client": "mysql",
+        "database": "cms2",
+        "host": "localhost",
+        "port": 3306,
+        "username": "sammy",
+        "password": "10691069a$"
+      },
+      "options": {}
+    }
+  }
+}
